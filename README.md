@@ -1,2 +1,1 @@
-# single-page-cv
-First html-project 
+https://github.com/razoreather/single-page-cv/blob/main/html
