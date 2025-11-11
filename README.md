@@ -1,1 +1,1 @@
-https://github.com/razoreather/single-page-cv/blob/main/html
+https://roadmap.sh/projects/single-page-cv
